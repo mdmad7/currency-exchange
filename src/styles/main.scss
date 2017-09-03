@@ -1,0 +1,19 @@
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+body {
+  // background-color: #f8f8f8;
+  background: url('./pattern.jpg');
+  font-family: Source Sans Pro;
+}
+
+h1 {
+  // color: #f8f8f8;
+  font-weight: bold;
+  margin: 4rem 0 2rem;
+}
+
+.exchange-card {
+  background: #f8f8f8;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  padding: 4rem 0;
+}
